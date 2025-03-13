@@ -8,6 +8,7 @@ dependencies = [
     "ipykernel>=6.29.5",
     "loguru>=0.7.3",
     "pandas>=2.2.3",
+    "pgeocode>=0.5.0",
     "plotly>=6.0.0",
     "pydantic>=2.10.6",
     "scikit-learn>=1.6.1",
