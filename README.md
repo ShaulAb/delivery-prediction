@@ -13,7 +13,10 @@ Notebook: `interactive/00_data_loading.ipynb`
 - Merged all the data sources to a single dataframe
 - Temporally splitted the data into training and test sets
 
-## Dependencies
-- pandas
-- scikit-learn
-- [Other libraries]
+### EDA and Benchmark Model
+
+Notebook: `interactive/01_EDA.ipynb`
+- Performed minor EDA on the training set
+- Built a benchmark model using only the training set
+- Evaluated the benchmark model on the test set and compared to default estimation
+
