@@ -107,3 +107,5 @@ special_characters = {
     'Ô': 'O',
     'Ú': 'U',
 }
+
+city_coords_df = pd.read_csv('../data/city_coords.csv')
